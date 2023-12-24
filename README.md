@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Jarosław</h1>
-<h3 align="center">An IT student and DevOps enthusiast from Poland</h3>
+<h3 align="center">An IT student, DevOps and website development enthusiast from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mwyrld6lx9zo74vukom4rn1sk5vczdkve6eirm2p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
+- 🌱 I’m currently learning **mern stack and some DevOps tools**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Jaro233](https://github.com/Jaro233)
+
+- 💬 Ask me about **jenkins, react**
 
 - 📫 How to reach me **jaroslaw.waliczek11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaros%c5%82aw-waliczek-607895276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaros%c5%82aw-waliczek-607895276/" height="30" width="40" /></a>
+<a href="https://twitter.com/J4ro123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j4ro123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jarosław-waliczek-607895276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jarosław-waliczek-607895276" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
