@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jarosław</h1>
 <h3 align="center">An IT student, DevOps and website development enthusiast from Poland</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mwyrld6lx9zo74vukom4rn1sk5vczdkve6eirm2p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
