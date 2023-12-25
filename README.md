@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jaro233](https://github.com/Jaro233)
 
-- 💬 Ask me about **jenkins, react**
+- 💬 Ask me about **aws, jenkins, react... or anything**
 
 - 📫 How to reach me **jaroslaw.waliczek11@gmail.com**
 
-- ⚡ Fun fact **I started programming in the beginning of 2022**
+- ⚡ Fun fact **Honey never spoils**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
